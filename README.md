@@ -1,11 +1,16 @@
 - 👋 Hi, I’m @SonDooHwan
 - 👀 I’m interested in 
+  - Graphical model
+  - Statistics
   - Time Series  
   - Time Series Modelling  
   - Graph Neural Networks  
   - Out of Distribution  
   - Ocean AI  
 - 🌱 I’m currently learning ...
+  - Statistics
+  - Regression Analysis
+  - Graphical Causal Model
   - Time Series Modelling  
   - Graph Neural Networks
   - Explainable AI
